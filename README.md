@@ -1,5 +1,4 @@
 # Simplificando com Builder Pattern
-___
 
 > Uma boa pratica no desenvolvimento de sistemas com Java é aproveitar os diversos padrões de projetos existentes
 > da melhor forma possível, de modo que, facilitem tanto o processo de desenvolvimento quanto os processos de
