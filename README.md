@@ -6,7 +6,7 @@
 > Um padrão bastante útil é o **Builder**. Este tem como objetivo eliminar a complexidade na criação de objetos e
 > também deixar mais intuitivo este processo.
 
-## 🔗 **Projeto baseado no tutorial:** 
+## 🔗 **Projeto baseado no tutorial** 
 
 * <a href="https://www.mballem.com/post/simplificando-com-builder-pattern/">Simplificando com Builder Pattern</a>.
 
