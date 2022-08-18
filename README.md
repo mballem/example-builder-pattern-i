@@ -7,11 +7,11 @@ ___
 
 ### 🏷️ Diagrama de classe sem Builder Pattern
 
-<img src="https://mballem.files.wordpress.com/2014/09/uml-sem-builder.jpg" alt="As classes do projeto sem Builder Pattern" style="height: 60%; width:60%;"/>
+<img src="https://mballem.files.wordpress.com/2014/09/uml-sem-builder.jpg" alt="As classes do projeto sem Builder Pattern" style="height: 75%; width:75%;"/>
 
 ### 🏷️ Diagrama de classe com Builder Pattern
 
-<img src="https://mballem.files.wordpress.com/2014/09/uml-com-builder.jpg" alt="As classes do projeto com Builder Pattern" style="height: 50%; width:50%;"/>
+<img src="https://mballem.files.wordpress.com/2014/09/uml-com-builder.jpg" alt="As classes do projeto com Builder Pattern" style="height: 60%; width:60%;"/>
 
 ### 🛑 Pré-requistos
 * Java 8 ou superior
